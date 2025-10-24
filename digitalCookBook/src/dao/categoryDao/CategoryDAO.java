@@ -6,7 +6,7 @@ package dao.categoryDao;
  *
  * CategoryDAO.java
  * DAO class to manage recipe categories in the database.
- * Supports: Add, Read (All), Update, Delete categories.
+ * Support: Add, Read (All), Update, Delete categories.
  */
 
 import java.sql.*;
